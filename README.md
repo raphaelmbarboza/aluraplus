@@ -10,6 +10,6 @@ Este portfólio de exemplo foi criado utilizando HTML e CSS como principais tecn
 
 Para garantir uma experiência consistente em diferentes dispositivos, foram aplicadas técnicas de design responsivo utilizando media queries. Isso assegura que o portfólio seja visualizado corretamente em uma variedade de tamanhos de tela, desde dispositivos móveis até desktops.
 
-# Disponível em:
-https://aluraplus-rose-sigma.vercel.app/
-https://raphaelmbarboza.github.io/aluraplus/
+# <h1 align="center"> Disponível em: </h1>
+# * https://aluraplus-rose-sigma.vercel.app/
+# * https://raphaelmbarboza.github.io/aluraplus/
