@@ -12,4 +12,5 @@ Para garantir uma experiência consistente em diferentes dispositivos, foram apl
 
 # <h1 align="center"> Disponível em: </h1>
 https://aluraplus-rose-sigma.vercel.app/
+.
 https://raphaelmbarboza.github.io/aluraplus/
